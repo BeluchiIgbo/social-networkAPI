@@ -6,5 +6,8 @@
 ## Video Walkthrough
 [Link]()
 
-## DEMO
+## DEMO/ installation 
+Clone the repo, run npm i to install the dependencies. Then Launch the application, run the following command from the root of the application: node index.js
+
+listen on http://localhost:3001.
 
